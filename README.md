@@ -14,7 +14,7 @@ By [Endorphins][endorphins]
 <a name="introduction"></a>
 ##Introduction
 
- **NOTE: This is the README.md, it uses Markdown and should be read with an application that can use it. If not, it should still be readable with anything that can read *.txt files** 
+ **NOTE: This is the README.md, it uses Markdown and should be read with an application that can use it. If not, it should still be readable with anything that can read *.txt files.** 
 
 This is just me trying to get used to git, github, repos, and markdown. I would like to add some of my better school projects to my repo list, as well as my future projects.
 
