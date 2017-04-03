@@ -7,9 +7,9 @@ By [Endorphins][endorphins]
 | [Introduction](#introduction)         |
 | [Installation](#installation)         |
 | [Usage](#usage)                       |
-| [Planned Features](#planned features) |
+| [Planned Features](#planned_features) |
 | [FAQ / Q&A](#faq)                     |
-| [More Information](#more info)        |
+| [More Information](#more_info)        |
 
 <a name="introduction"></a>
 ##Introduction
@@ -28,7 +28,7 @@ No installation yet.
 
 No usage yet.
 
-<a name="planned features"></a>
+<a name="planned_features"></a>
 ##Planned Features
 
 * A 'Hello Git' program for my known languages.
@@ -49,7 +49,7 @@ No usage yet.
 * **Q: Can I fork this repo?**
  * _A: Yes, but there isn't really a point..._
 
-<a name="more info"></a>
+<a name="more_info"></a>
 ##More Information
 
 ###Bug Reports
