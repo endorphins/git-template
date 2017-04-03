@@ -32,10 +32,10 @@ Any usage notes/instructions/examples.
 ## Planned Features
 
 * A list of planned features for the project.
-  * Maybe
-  * With
-  * Multiple
-  * Sub-bullets
+    * Maybe
+    * With
+    * Multiple
+    * Sub-bullets
 * Etc, etc.
 
 <a name="faq"></a>
