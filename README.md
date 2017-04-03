@@ -32,10 +32,10 @@ Any usage notes/instructions/examples.
 ## Planned Features
 
 * A list of planned features for the project.
- * Maybe
- * With
- * Multiple
- * Sub-bullets
+  * Maybe
+  * With
+  * Multiple
+  * Sub-bullets
 * Etc, etc.
 
 <a name="faq"></a>
@@ -48,7 +48,7 @@ Any usage notes/instructions/examples.
 ### Q&A
 
 * **Q: Some question?**
- * _A: Some answer._
+    * _A: Some answer._
 
 <a name="more_info"></a>
 ## More Information
@@ -63,8 +63,8 @@ This is a list of developers that you can contact for assistance on something th
 **Please only message us as a last resort or if it is very important!**
 
 * Tyler Pacheco ([endorphins][endorphins])
- * _email_: tyler.n.pacheco@gmail.com
- * _github_: https://github.com/endorphins
+    * _email_: tyler.n.pacheco@gmail.com
+    * _github_: https://github.com/endorphins
 
 ### Developers
 
